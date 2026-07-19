@@ -1,0 +1,12 @@
+ollama
+groq
+requests
+rich
+colorama
+psutil
+sounddevice
+soundfile
+numpy
+openai-whisper
+pyaudio
+pygame
